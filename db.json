@@ -1,44 +1,4 @@
 {
-  "logs": [
-    {
-      "id": 1,
-      "message": "server errse",
-      "tech": "ad dsds",
-      "attention": true,
-      "date": "2023-06-26T21:14:10.250Z"
-    },
-    {
-      "message": "asd",
-      "attention": false,
-      "tech": "Tarik Ibreljic",
-      "date": "2023-06-26T17:37:28.019Z",
-      "id": 3
-    },
-    {
-      "id": 5,
-      "message": "aa",
-      "tech": "ad dsds",
-      "attention": true,
-      "date": "2023-06-26T17:38:46.006Z"
-    },
-    {
-      "id": 6,
-      "message": "d",
-      "tech": "Fuad Ibre",
-      "attention": false,
-      "date": "2023-06-27T12:30:04.645Z"
-    }
-  ],
-  "techs": [
-    {
-      "firstName": "Tarik",
-      "lastName": "Ibreljic",
-      "id": 1
-    },
-    {
-      "firstName": "Fuad",
-      "lastName": "Ibre",
-      "id": 2
-    }
-  ]
+  "logs": [],
+  "techs": []
 }
